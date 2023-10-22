@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
     TextView textView;
 
     private final String url = "https://api.openweathermap.org/data/2.5/weather";
-    private final String API_KEY = "63aab646d92cfb1d23489ff4909adf00";
+    // Replace you API_KEY here
+    private final String API_KEY = "63aab646d92#####################";
     DecimalFormat df = new DecimalFormat("#.##");
 
 
