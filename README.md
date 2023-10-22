@@ -38,7 +38,4 @@ The Weather App is open-source software licensed under the MIT License. Feel fre
 ![image](https://github.com/SaraSAli/AndroidWeatherApp/assets/17590461/2af8cb4a-72c9-408f-9b3b-83f8e78216e4)
 ![image](https://github.com/SaraSAli/AndroidWeatherApp/assets/17590461/0914b6a4-e69b-4605-8e73-74ca2f52a8fd)
 ![image](https://github.com/SaraSAli/AndroidWeatherApp/assets/17590461/4212829b-b944-49e6-85e1-daa58b8757c2)
-
-
-
-
+![image](https://github.com/SaraSAli/AndroidWeatherApp/assets/17590461/0351e6b6-7625-4219-ac18-25d8b948a0d3)
